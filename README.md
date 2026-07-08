@@ -73,9 +73,11 @@ When users know exactly where to go, analytics becomes much more powerful.
 ----------------------------------------------------------------------------------------------------------------
 **Visualiation Drop Zones:**
 It contain 15 drop zones, for each different data points.
+
 <img width="176" height="953" alt="image" src="https://github.com/user-attachments/assets/5a2d42e8-d1c0-4bc2-add1-138e0a5115b3" />
 
 ----------------------------------------------------------------------------------------------------------------
 **Customization Options:**
 Full Feature to customize the colors are provided.
+
 <img width="170" height="949" alt="image" src="https://github.com/user-attachments/assets/366c6720-13af-4313-b869-de4f0907f0e7" />
