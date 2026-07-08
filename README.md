@@ -73,6 +73,7 @@ When users know exactly where to go, analytics becomes much more powerful.
 ----------------------------------------------------------------------------------------------------------------
 **Visualiation Drop Zones:**
 It contain 15 drop zones, for each different data points.
+where the Metric drop zone is to know which dashboard is accisible by users. So, the value could be "1" or "0". where "1" means it is not accisible as the role or rights is not available for that dashboard. And if you have logic to map the users with the associated dashboard then have that metric with "1" or "0" values else keep that as "0" to enable the dashboard for all users and the restrcition can be handled inthe BI instance.
 
 <img width="176" height="953" alt="image" src="https://github.com/user-attachments/assets/5a2d42e8-d1c0-4bc2-add1-138e0a5115b3" />
 
